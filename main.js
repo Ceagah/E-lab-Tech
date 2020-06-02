@@ -6,7 +6,7 @@ function toggle(){
 
 
 
-var countDate = new Date('Jun 16, 2020 00:00:00').getTime();
+var countDate = new Date('Jul 01, 2020 00:00:00').getTime();
 function newYear() {
     var now = new Date().getTime();
     var gap = countDate - now;
